@@ -1,0 +1,23 @@
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Inventor NPI Release.exe.config
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\obj\Release\Interop.InventorApprentice.dll
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\obj\Release\Inventor NPI Release.csproj.ResolveComReference.cache
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Inventor NPI Release.exe
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Inventor NPI Release.pdb
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.Connectivity.Extensibility.Framework.dll
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.Connectivity.WebServices.dll
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.DataManagement.Client.Framework.dll
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.DataManagement.Client.Framework.Forms.dll
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.DataManagement.Client.Framework.Vault.dll
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.DataManagement.Client.Framework.Vault.Forms.dll
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.Connectivity.Extensibility.Framework.xml
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.Connectivity.WebServices.xml
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.DataManagement.Client.Framework.xml
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.DataManagement.Client.Framework.Forms.xml
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.DataManagement.Client.Framework.Vault.xml
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\bin\Release\Autodesk.DataManagement.Client.Framework.Vault.Forms.xml
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\obj\Release\Inventor_NPI_Release.AboutBox.resources
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\obj\Release\Inventor_NPI_Release.InventorRelease.resources
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\obj\Release\Inventor_NPI_Release.Properties.Resources.resources
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\obj\Release\Inventor NPI Release.csproj.GenerateResource.Cache
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\obj\Release\Inventor NPI Release.exe
+C:\Users\tcs4fs.000\Dev\Inventor Release\Inventor NPI Release\Inventor NPI Release\obj\Release\Inventor NPI Release.pdb
